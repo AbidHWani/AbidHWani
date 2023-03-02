@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AbidHWani
-- 👀 I’m interested in data, data analytics, and R 
-- 🌱 I’m currently learning data analytics
+- 👀 Interested in data analytics, web and website design.
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me aabidhussain0786@gmail.com
+- 📫 aabidhussain0786@gmail.com
 
 <!---
 AbidHWani/AbidHWani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
