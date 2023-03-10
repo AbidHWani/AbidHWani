@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbidHWani
 - 👀 Interested in data analytics, web and website design.
-- 💞️ I’m here to collabrate on these project types.
+- Reach out to me:
 - 📫 aabidhussain0786@gmail.com
 
 <!---
