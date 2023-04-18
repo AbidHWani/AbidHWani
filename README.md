@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbidHWani
-- 👀 Interested in data analytics, web and website design.
+- 👀 Interested in web and website design, data analytics, playing games!
 - Reach out to me:
 - 📫 aabidhussain0786@gmail.com
 
